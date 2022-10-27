@@ -8,3 +8,9 @@
 h2{
     text-align: center;
 }
+
+.link-git{
+text-decoration: none;
+color: #02005c;
+font-size: 20px;
+}
