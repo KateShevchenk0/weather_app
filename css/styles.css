@@ -1,16 +1,25 @@
+body {
+  background: url("https://img.freepik.com/free-vector/collection-cartoon-weather-signs_79603-1807.jpg?w=2000") no-repeat  ;
+  background-size: cover;
+
+}
+
 .weather-app {
   border: 1px solid #97bd9e;
   padding: 15px;
-  margin: 20px auto;
+  margin: 20px auto 7px auto;
   border-radius: 10px;
   max-width: 850px;
+  background-color: #fff;
 }
-h2{
-    text-align: center;
+h2 {
+  text-align: center;
 }
 
-.link-git{
-text-decoration: none;
-color: #02005c;
-font-size: 20px;
+.link-git {
+  text-decoration: none;
+  color: #02005c;
+  font-size: 20px;
 }
+  
+
